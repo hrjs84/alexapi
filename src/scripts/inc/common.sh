@@ -9,7 +9,7 @@ function run_python {
 }
 
 function run_pip {
-    pip2 "$@"
+    pip3 "$@"
 }
 
 function init_classic {
